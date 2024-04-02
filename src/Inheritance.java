@@ -28,6 +28,7 @@ class Dog extends Animal {
 }
 
 public class Inheritance {
+    //hii
     public static void main(String[] args) {
         // Create a Dog object
         Dog dog = new Dog("Buddy");
